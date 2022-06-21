@@ -31,6 +31,10 @@ const LIST_ITEMS = [
     link: "https://news.feed-reader.net/rubriken/ueberblick/top/"
   },
   {
+    name: "sololearn",
+    link: "https://www.sololearn.com/"
+  },
+  {
     name: "r/rbtv_cj",
     link: "https://www.reddit.com/r/rbtv_cj/"
   },
